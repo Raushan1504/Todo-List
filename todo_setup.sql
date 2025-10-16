@@ -1,0 +1,2 @@
+ALTER TABLE todos AUTO_INCREMENT = 1;
+
