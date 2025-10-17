@@ -1,7 +1,8 @@
 # Project Title: To Do List
 ### A simple, intuitive, web application for managing your daily tasks. This Todo-List helps users stay organized by allowing them to add and delete tasks efficiently.
 
-# Deployment Link: https://todo-302t9aic5-raushan1504s-projects.vercel.app/
+## Deployment Link: https://todo-302t9aic5-raushan1504s-projects.vercel.app/
+## Github Repositroy: 
 
 # Features
 ### Add Tasks : Quickly add new tasks to your list.
@@ -41,3 +42,6 @@
 ### Open a Pull Request.
 
 
+# Contact:
+## email address : rashukumar1504@gmail.com
+## email address[srm] : rk9296@srmist.edu.in
