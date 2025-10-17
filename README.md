@@ -4,7 +4,7 @@ A simple, intuitive, web application for managing your daily tasks. This Todo-Li
 # Deployment Link: https://todo-302t9aic5-raushan1504s-projects.vercel.app/
 
 # Features
-#    Add Tasks : Quickly add new tasks to your list.
+### Add Tasks : Quickly add new tasks to your list.
 #    Mark as Complete : Toggle tasks to mark them as done.
 #    Delete Tasks : Remove completed or unwanted tasks.
 #    Persistence : Tasks are saved (e.g., using Local Storage) so they remain available even after closing and reopening the browser.
