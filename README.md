@@ -5,30 +5,30 @@ A simple, intuitive, web application for managing your daily tasks. This Todo-Li
 
 # Features
 ### Add Tasks : Quickly add new tasks to your list.
-#    Mark as Complete : Toggle tasks to mark them as done.
-#    Delete Tasks : Remove completed or unwanted tasks.
-#    Persistence : Tasks are saved (e.g., using Local Storage) so they remain available even after closing and reopening the browser.
-#    Clean UI/UX: A responsive and easy-to-use interface.
+### Mark as Complete : Toggle tasks to mark them as done.
+### Delete Tasks : Remove completed or unwanted tasks.
+### Persistence : Tasks are saved (e.g., using Local Storage) so they remain available even after closing and reopening the browser.
+### Clean UI/UX: A responsive and easy-to-use interface.
 
 
 # Technology Stack
-#  Frontend
+## Frontend
 HTML5
 CSS3
 JavaScript (ES6+):
-# Backend
+## Backend
 NodeJs for server side logic 
-# Database
+## Database
 MySQL
 
 
 # Getting Started
 To run and modify the project locally, you will need Git and a code editor (like VS Code).
-#   1)Installation
+## 1)Installation
 clone the repository git clone https://github.com/Raushan1504/Todo-List.git
-#   2)Navigate to project directory
+##  2)Navigate to project directory
 cd Todo-List
-#   3)Open the Project
+##   3)Open the Project
 Simply open the index.html file in the preffered browser
 
 
