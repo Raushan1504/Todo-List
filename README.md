@@ -32,6 +32,7 @@
 ### cd Todo-List
 ##   3)Open the Project
 ### Simply open the index.html file in the preffered browser
+### or open with vscode and select "open with live server"
 
 
 # Contribution
