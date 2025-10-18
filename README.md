@@ -26,10 +26,10 @@
 
 # Getting Started
 ### To run and modify the project locally, you will need Git and a code editor (like VS Code).
-## 1)Installation
-### clone the repository git clone https://github.com/Raushan1504/Todo-List.git
-##  2)Navigate to project directory
-### cd Todo-List
+## 1)Navigate to Desired directory
+### Navigate to the folder where you want to place the project  cd Todo-List
+##  2)Clone the repository
+### Clone the github repository:https://github.com/Raushan1504/Todo-List.git
 ##   3)Open the Project
 ### Simply open the index.html file in the preffered browser
 ### or open with vscode and select "open with live server"
